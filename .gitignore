@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+database/games_clean.csv
+database/games_details_clean.csv
+database/players_clean.csv
+database/ranking_clean.csv
+database/teams_clean.csv
+datasets_describe/games_details_summary.xlsx
+datasets_describe/games_summary.xlsx
+datasets_describe/players_summary.xlsx
+datasets_describe/ranking_summary.xlsx
+datasets_describe/teams_summary.xlsx
