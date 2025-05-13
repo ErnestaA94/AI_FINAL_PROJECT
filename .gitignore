@@ -182,3 +182,10 @@ datasets_describe/games_summary.xlsx
 datasets_describe/players_summary.xlsx
 datasets_describe/ranking_summary.xlsx
 datasets_describe/teams_summary.xlsx
+notebooks/best_model.h5
+notebooks/final_model2.h5
+notebooks/player_features.csv
+notebooks/X_data2.npy
+notebooks/X_scaler2.pkl
+notebooks/y_data2.npy
+notebooks/y_scaler2.pkl
