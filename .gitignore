@@ -226,3 +226,15 @@ notebooks/tuner_results/nba_lstm_tuning/trial_00/checkpoint.weights.h5
 notebooks/y_scaler.pkl
 notebooks/y_scaler_optuna.pkl
 notebooks/y_data.npy
+results/y_scaler.pkl
+results/y_data.npy
+results/xgboost_tuned_model.pkl
+results/X_scaler.pkl
+results/X_data.npy
+results/player_features.csv
+results/model_evaluation.png
+results/final_model.h5
+results/final_keras_tuned_model.keras
+results/best_tuned_model.h5
+results/best_optuna_model.keras
+results/best_model.h5

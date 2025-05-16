@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+    <html>
+    <head>
+        <title>NBA Test</title>
+    </head>
+    <body>
+        <h1>NBA Predictor Test Page</h1>
+        <p>If you can see this, Flask is working!</p>
+        <p>Status: <span id="status">Checking...</span></p>
+        <p>Players: <span id="players">Loading...</span></p>
+        
+        <script>
+            // Test API endpoints
+            fetch('/test')
+                .then(r => r.json())
+                .then(data => document.getElementById('status').textContent = data.status);
+                
+            fetch('/test-players')
+                .then(r => r.json())
+                .then(data => document.getElementById('players').textContent = data.count + ' players loaded');
+        </script>
+    </body>
+    </html>
