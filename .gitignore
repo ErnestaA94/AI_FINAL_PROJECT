@@ -238,3 +238,5 @@ results/final_keras_tuned_model.keras
 results/best_tuned_model.h5
 results/best_optuna_model.keras
 results/best_model.h5
+results/y_pred_xgb.npy
+results/y_val_xgb.npy

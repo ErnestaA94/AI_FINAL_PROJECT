@@ -10,4 +10,4 @@ Features
 - Web interface for predictions
 - Mysql database integration
 
-https://www.kaggle.com/datasets/nathanlauga/nba-games/data using this Kaggle Dataset with all NBA games from 2004 season to dec 2020
+https://www.kaggle.com/datasets/nathanlauga/nba-games/data using this Kaggle Dataset with all NBA games from 2004 season to dec 2022
